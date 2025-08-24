@@ -20,7 +20,7 @@ function App() {
     <AuthProvider>
       <DataProvider>
         <Router>
-          <div className="min-h-screen bg-gradient-to-br from-purple-900 via-blue-900 to-indigo-900">
+          <div className="min-h-screen bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950">
             <Helmet>
               <title>The Village: App - Connect, Support, Thrive</title>
               <meta name="description" content="A secure community platform for parents of special needs children to find trusted connections, arrange playdates, and access mutual support." />
