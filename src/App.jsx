@@ -19,7 +19,7 @@ function App() {
   return (
     <AuthProvider>
       <DataProvider>
-        <Router>
+        <Router basename="/TheVillage">
           <div className="min-h-screen bg-gradient-to-br from-emerald-950 via-slate-900 to-teal-950">
             <Helmet>
               <title>The Village: App - Connect, Support, Thrive</title>
